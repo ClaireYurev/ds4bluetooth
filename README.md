@@ -12,4 +12,4 @@ Bluetooth setup instructions for multiple controllers
 5. Should be successful.
 6. RESTART WINDOWS AGAIN (Second Restart - will not work otherwise)
 7. Add a new Bluetooth Device (Option 1 (regular), NOT controller) - this will be the SECOND controller
-8. Everything should work (i.e. two controllers on Steam) - if not, restart again.
+8. Everything should work (i.e. two controllers in basic mode) - if not, restart again.
